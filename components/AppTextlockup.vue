@@ -9,7 +9,7 @@
       <slot name="new">New</slot>
     </div>
     <div class="sale">
-      <slot name="sale">Men Shoes</slot>
+      <slot name="sale">Women Shoes</slot>
     </div>
     <div class="collection">
       <slot name="collection">Collection</slot>
