@@ -1,7 +1,7 @@
 <template>
   <footer>
     <section class="callout">
-      <h2>"The surprising styles of Skyline Ivy are advanced for all seasons."</h2>
+      <h2>"The surprising styles of Skyline Ivy are advanced for all seasons.This is the footer"</h2>
       <p>Hansel Andersen</p>
     </section>
     <app-footer-links />
