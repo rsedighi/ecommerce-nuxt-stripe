@@ -12,7 +12,7 @@
       <slot name="sale">Men Shoes</slot>
     </div>
     <div class="collection">
-      <slot name="collection">Collection</slot>
+      <slot name="collection">Collection on a branch</slot>
     </div>
     <div class="details">
       <slot name="details">Street Style New Fashion</slot>
