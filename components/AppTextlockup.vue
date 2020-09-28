@@ -2,14 +2,14 @@
   <div class="textlockup">
     <div class="img">
       <slot name="img">
-        <img src="/shoe1.jpg" alt="shoe" />
+        <img src="/shoe1.png" alt="shoe" />
       </slot>
     </div>
     <div class="new">
       <slot name="new">New</slot>
     </div>
     <div class="sale">
-      <slot name="sale">Women Shoes</slot>
+      <slot name="sale">Vintage Shoes Sale</slot>
     </div>
     <div class="collection">
       <slot name="collection">Collection</slot>
@@ -60,7 +60,9 @@ export default {};
     max-width: 950px;
     grid-area: 1 / 3 / 6 / 4;
     img {
-      width: 95%;
+      width: 70%;
+    padding-left: 46%;
+      
     }
   }
 }
