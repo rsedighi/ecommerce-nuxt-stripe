@@ -9,13 +9,13 @@
       <slot name="new">New</slot>
     </div>
     <div class="sale">
-      <slot name="sale">Vintage Shoes Sale</slot>
+      <slot name="sale">Mountaineering Boot</slot>
     </div>
     <div class="collection">
-      <slot name="collection">Collection</slot>
+      <slot name="collection">ACRUX AR</slot>
     </div>
     <div class="details">
-      <slot name="details">Street Style New Fashionistas</slot>
+      <slot name="details">A pinnacle of design for mountaineering</slot>
     </div>
   </div>
 </template>
@@ -60,9 +60,9 @@ export default {};
     max-width: 950px;
     grid-area: 1 / 3 / 6 / 4;
     img {
-      width: 70%;
-    padding-left: 46%;
-      
+    width: 93%;
+    padding-left: 56%;
+
     }
   }
 }
