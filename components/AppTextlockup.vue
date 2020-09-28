@@ -60,9 +60,9 @@ export default {};
     max-width: 950px;
     grid-area: 1 / 3 / 6 / 4;
     img {
-      width: 70%;
-    padding-left: 46%;
-      
+    width: 93%;
+    padding-left: 56%;
+
     }
   }
 }
