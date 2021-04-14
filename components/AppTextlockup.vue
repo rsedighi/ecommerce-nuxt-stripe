@@ -6,7 +6,7 @@
       </slot>
     </div>
     <div class="new">
-      <slot name="new">New</slot>
+      <slot name="new">New FEATURE!!!!</slot>
     </div>
     <div class="sale">
       <slot name="sale">Mountaineering Boot</slot>
